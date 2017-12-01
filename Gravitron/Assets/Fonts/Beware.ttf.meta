@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ca00f0767b05284c8471491aed8c374
+timeCreated: 1502355904
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beware
+  fontNames:
+  - Beware
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

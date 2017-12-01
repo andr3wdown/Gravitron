@@ -1,0 +1,2 @@
+chara%20jump.png,64,64,8
+chara-jump.png,64,64,8

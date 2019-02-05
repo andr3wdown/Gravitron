@@ -40,6 +40,7 @@ public class LevelGenerator : MonoBehaviour
             }
             iter++;
         }
+        iter = 0;
     }
     void SpawnPlanet(Transform pos)
     {

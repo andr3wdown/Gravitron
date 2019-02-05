@@ -6,7 +6,7 @@ public class HpPickup : Pickup
 {
     public int LivesToGive;
     bool activated = false;
-    public void OnTriggerEnter2D(Collider2D other)
+	public void OnTriggerEnter2D(Collider2D other)
     {
         if(other.GetComponent<Character>() != null && !activated)
         {
